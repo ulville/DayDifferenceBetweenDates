@@ -7,8 +7,8 @@ The algorithm I implemented doesn't use any loops so it's pretty fast. Also I di
 
 
 [TR]
-Bu programı bir öğrenciye ödevinde yardım etmek için kodladım. Dilediğiniz gibi kullanabilirsiniz.
-Kod açıklamaları ve değişken isimleri Türkçedir.
+Bu programÄ± bir Ã¶ÄŸrenciye Ã¶devinde yardÄ±m etmek iÃ§in kodladÄ±m. DilediÄŸiniz gibi kullanabilirsiniz.
+Kod aÃ§Ä±klamalarÄ± ve deÄŸiÅŸken isimleri TÃ¼rkÃ§edir.
 
-Gİrilen iki tarih arasındaki gün farkını hesaplayan küçük bir komut satırı programı.
-Uyguladığım algoritma döngü kullanmadığı için oldukça hızlı çalışıyor. Eğitim amaçlı olduğu için DateTime sınıfını kullanmadım.
+Girilen iki tarih arasÄ±ndaki gÃ¼n farkÄ±nÄ± hesaplayan kÃ¼Ã§Ã¼k bir komut satÄ±rÄ± programÄ±.
+UyguladÄ±ÄŸÄ±m algoritma dÃ¶ngÃ¼ kullanmadÄ±ÄŸÄ± iÃ§in oldukÃ§a hÄ±zlÄ± Ã§alÄ±ÅŸÄ±yor. EÄŸitim amaÃ§lÄ± olduÄŸu iÃ§in DateTime sÄ±nÄ±fÄ±nÄ± kullanmadÄ±m.
